@@ -10,3 +10,8 @@
 
 ● [site](https://e.rip/blasted)
 
+
+## stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bIasted&theme=radical)
+
