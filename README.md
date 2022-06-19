@@ -1,14 +1,14 @@
 ### blast
-● united kingdom
+● United Kingdom
 
 ● 14
 
-● 3d modeller 
+● 3D Modeller 
 
 ### contact
-● [discord](https://discord.com/users/983763943518523392)
+● [Discord](https://discord.com/users/983763943518523392)
 
-● [site](https://e.rip/blasted)
+● [Site](https://e.rip/blasted)
 
 
 ## stats
