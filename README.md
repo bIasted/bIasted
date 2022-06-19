@@ -6,4 +6,4 @@
 ● 3d modeller 
 
 ### contact
-● [discord](https://discord.com/users/983788710065750036)
+● discord - blasted#9324
