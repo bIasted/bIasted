@@ -7,3 +7,6 @@
 
 ### contact
 ● [discord](https://discord.com/users/983763943518523392)
+
+● [site](https://e.rip/blasted)
+
