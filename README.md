@@ -13,9 +13,6 @@
 
 ## stats
 
-![GitHub Stats](https://komarev.com/ghpvc/?username=bIasted&color=blueviolet)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bIasted&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bIasted&theme=dark)
 
 
