@@ -20,6 +20,6 @@
 
 ● [Discord](https://discord.com/users/983763943518523392)
 
-● [Site](https://discord.com/users/983763943518523392)
+● [Site](https://e.rip/blasted)
 
 
