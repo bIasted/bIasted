@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=bIasted&color=blueviolet)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bIasted&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bIasted&theme=midnight-purple)
 
 <h2 align="center">current projects</h2>
 
